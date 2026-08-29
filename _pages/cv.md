@@ -7,6 +7,10 @@ redirect_from:
   - /resume
 ---
 
+<div class="wordwrap">
+  See my <a href="https://taniamishra.github.io/files/Tania_Mishra_CV_Aug2026">full CV here</a> (last updated August 2026).
+</div>
+
 {% include base_path %}
 
 Education
@@ -16,19 +20,12 @@ Education
 
 Projects
 -----
-  <ul>{% for project in site.projects reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <ul>
+{% for post in site.projects reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+</ul>
 
-  
-<!-- Skills
------
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
 
 Publications
 -----
@@ -48,6 +45,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!-- Service and leadership
------
-* Currently signed in to 43 different slack teams -->
