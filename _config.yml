@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Tania Mishra"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  research_areas  : "Social computing, data ethics, human computer interaction (HCI)"
   location         : "Ann Arbor, MI / Milwaukee, WI"
   employer         : "University of Michigan"
   uri              : # URL
@@ -90,6 +90,13 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+
+# Teaching Category - The following the list of teaching categories and their headings
+teaching_category:
+  ta-gsi:
+    title: 'TA / GSI'
+  instructor:
+    title: 'Lead Instructor'    
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
@@ -227,7 +234,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -273,10 +280,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
