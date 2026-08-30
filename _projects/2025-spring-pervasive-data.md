@@ -4,6 +4,7 @@ collection: projects
 duration: "Spring 2025 - Fall 2025"
 date: 2025-01-01
 permalink: /projects/2025-spring-ethical-use-of-pervasive-data
+excerpt: 'Findings published in: [The ACM Journal on Responsible Computing](/publication/2026-7-15-infrastructure-of-ethics)'
 ---
 
 * Explored how computing-related publications encourage scholars to consider the ethical implications of their research and what provisions are in place to ensure compliance with ethical standards

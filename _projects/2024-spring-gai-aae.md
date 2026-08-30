@@ -4,6 +4,7 @@ collection: projects
 duration: "Spring 2024 - Fall 2024"
 date: 2024-01-01
 permalink: /projects/2024-spring-exploration-of-gai-linguistic-capabilities
+excerpt: 'View the [poster here](https://taniamishra.github.io/files/MU_Honors_Research_Fair_Poster_Nov2024.pdf)'
 ---
 
 * Examined Generative AI models’ cultural and linguistic competence by measuring their ability to use AAE
@@ -14,5 +15,6 @@ permalink: /projects/2024-spring-exploration-of-gai-linguistic-capabilities
     * Marquette University’s Honors Research Fair
     * Marquette University’s Arts and Sciences Research Fair
     * The Northwestern Mutual Data Science Institute AI Ethics Symposium
+* View the <a href="https://taniamishra.github.io/files/MU_Honors_Research_Fair_Poster_Nov2024.pdf" target="_blank">poster here</a>.
 
 

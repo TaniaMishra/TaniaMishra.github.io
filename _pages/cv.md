@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div class="wordwrap">
-  See my <a href="https://taniamishra.github.io/files/Tania_Mishra_CV_Aug2026">full CV here</a> (last updated August 2026).
+  See my <a href="https://taniamishra.github.io/files/Tania_Mishra_CV_Aug2026.pdf" target="_blank">full CV here</a> (last updated August 2026).
 </div>
 
 {% include base_path %}
@@ -17,6 +17,8 @@ Education
 -----
 * Ph.D in Information, University of Michigan, present
 * Honors Bachelor of Science in Computer Science and Cognitive Science, Marquette University, 2026
+  * Minors: Gender and Sexuality Studies, Dance
+  * Concentration: Innovation Leadership
 
 Projects
 -----
